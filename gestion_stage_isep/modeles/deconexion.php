@@ -1,0 +1,1 @@
+<p><a href="login.php">Deconnecter</a></p>
